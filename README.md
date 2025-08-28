@@ -13,9 +13,8 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/godsonsakawas-projects/v0-pmg-transport-services](https://vercel.com/godsonsakawas-projects/v0-pmg-transport-services)**
+### 🚀 Live Demo
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://pmg-transporters-git-main-peters-projects-951a3900.vercel.app)
 
 ## Build your app
 
